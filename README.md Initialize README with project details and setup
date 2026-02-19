@@ -1,0 +1,20 @@
+# Real-Time Bots 🤖
+
+An open-source project for building real-time bots with instant responses and automation.
+
+## Features
+- Real-time communication
+- Command-based bot system
+- Easy to extend
+- Beginner friendly
+
+## Tech Stack
+- Python
+- WebSockets
+- AsyncIO
+
+## Getting Started
+
+### 1. Install Requirements
+```bash
+pip install websockets
